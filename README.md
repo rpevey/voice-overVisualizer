@@ -19,7 +19,8 @@ on linux or MacOS.
 
 While there is a music visualization mode for this package, it is wildly inefficient,
 so if you're interested in that I recommend using the C++ OpenGL visualizer package
-that I made as a sister tool to this instead (see audio_visualizers_gl).
+that I made as a sister tool to this instead
+(see https://github.com/rpevey/musicVisualizer).
 
 ---
 
